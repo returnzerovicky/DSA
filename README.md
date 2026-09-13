@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/returnzerovicky/DSA/tree/master/0835-image-overlap) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/returnzerovicky/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/returnzerovicky/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/returnzerovicky/DSA/tree/master/3483-unique-3-digit-even-numbers) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/returnzerovicky/DSA/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/returnzerovicky/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
