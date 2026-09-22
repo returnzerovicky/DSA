@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/returnzerovicky/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/returnzerovicky/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/returnzerovicky/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3525-find-x-value-of-array-ii](https://github.com/returnzerovicky/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/returnzerovicky/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/returnzerovicky/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/returnzerovicky/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/returnzerovicky/DSA/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/returnzerovicky/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/returnzerovicky/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3525-find-x-value-of-array-ii](https://github.com/returnzerovicky/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/returnzerovicky/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/returnzerovicky/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/returnzerovicky/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/returnzerovicky/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/returnzerovicky/DSA/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
