@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/returnzerovicky/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/returnzerovicky/DSA/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/returnzerovicky/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/returnzerovicky/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/returnzerovicky/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/returnzerovicky/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/returnzerovicky/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/returnzerovicky/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/returnzerovicky/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/returnzerovicky/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/returnzerovicky/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/returnzerovicky/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/returnzerovicky/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/returnzerovicky/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/returnzerovicky/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3665-twisted-mirror-path-count](https://github.com/returnzerovicky/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/returnzerovicky/DSA/tree/master/3693-climbing-stairs-ii) |
