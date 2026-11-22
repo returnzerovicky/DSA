@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/returnzerovicky/DSA/tree/master/0018-4sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/returnzerovicky/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/returnzerovicky/DSA/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/returnzerovicky/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/returnzerovicky/DSA/tree/master/0018-4sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/returnzerovicky/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/returnzerovicky/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0835-image-overlap](https://github.com/returnzerovicky/DSA/tree/master/0835-image-overlap) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/returnzerovicky/DSA/tree/master/0018-4sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/returnzerovicky/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/returnzerovicky/DSA/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/returnzerovicky/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
