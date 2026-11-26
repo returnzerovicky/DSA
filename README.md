@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/returnzerovicky/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/returnzerovicky/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2409-count-days-spent-together](https://github.com/returnzerovicky/DSA/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/returnzerovicky/DSA/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/returnzerovicky/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3525-find-x-value-of-array-ii](https://github.com/returnzerovicky/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/returnzerovicky/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/returnzerovicky/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/returnzerovicky/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/returnzerovicky/DSA/tree/master/3360-stone-removal-game) |
 ## Ordered Set
 |  |
 | ------- |
